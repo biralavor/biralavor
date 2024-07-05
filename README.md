@@ -17,7 +17,7 @@
 
 https://play.google.com/store/apps/details?id=com.playSTEMAcademy.MilkyShakyLAB
 
-![Banner-playstem_apresenta_milky](https://github.com/biralavor/biralavor/assets/80487147/442aba5b-fee5-4999-9978-936856a7748c)[https://play.google.com/store/apps/details?id=com.playSTEMAcademy.MilkyShakyLAB]
+![[Banner-playstem_apresenta_milky](https://play.google.com/store/apps/details?id=com.playSTEMAcademy.MilkyShakyLAB)](https://github.com/biralavor/biralavor/assets/80487147/442aba5b-fee5-4999-9978-936856a7748c)
 
 
 <!--
