@@ -1,5 +1,5 @@
 ## Hi there 👋
-This `README.md` is about my ✨code proficiency✨ and my studies at [42 São Paulo](https://42sp.org.br/):
+This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paulo](https://42sp.org.br/):
 
 [![status](https://raw.githubusercontent.com/biralavor/github-stats-transparent/output/generated/overview.svg)](#)
 [![languages](https://raw.githubusercontent.com/biralavor/github-stats-transparent/output/generated/languages.svg)](#)
