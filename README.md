@@ -13,7 +13,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 ---
 ## 42 School Projects
 > [!TIP]
-> The more latest project, better coded it is
+> The more latest project, better coded it is 	 __   (҂◡_◡) ᕤ   __
 
 [![libfte](https://github.com/biralavor/42_libft/assets/80487147/881ed657-9387-4a12-a6fe-7053d8c278f1 "Libft Project")](https://github.com/biralavor/42_libft)   [![get_next_linem](https://github.com/biralavor/42_getnextline/assets/80487147/6c9b2552-7395-4717-b16a-14e9cec5a085 "Get Next Line Project - with Bonus")](https://github.com/biralavor/42_getnextline/tree/main)   [![ft_printfe](https://github.com/biralavor/42_printf/assets/80487147/5bd49a5f-ed85-4c86-bf8a-5031433299a3 "Ft_printf Project")](https://github.com/biralavor/42_printf)   [![so_longm](https://github.com/biralavor/42_solong/assets/80487147/f760aaf0-3431-4fe8-81a2-09aa87535608 "So_long Project - with Bonus")](https://github.com/biralavor/42_solong)   [![minitalkm](https://github.com/biralavor/42_minitalk/assets/80487147/dd3eea53-d070-48b9-965c-682881ef7ff6 "Mini Talk Project - with Bonus")](https://github.com/biralavor/42_minitalk)   [![push_swape](https://github.com/biralavor/42_pushswap/assets/80487147/90c54513-52ea-419c-8db1-e9c315cbad69 "Push Swap")](https://github.com/biralavor/42_pushswap)
 
