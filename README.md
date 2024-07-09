@@ -47,8 +47,9 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 > [!WARNING]
 > | Phase 2 - work in progress |
-> | - |
-> 8.[![minishelln](https://github.com/biralavor/42_minishell/assets/80487147/9718ee86-fbb4-4625-b6cf-56176eb9d1a0 "Mini Shell")](https://github.com/biralavor/42_minishell)
+> | :-: |
+> [![minishelln](https://github.com/biralavor/42_minishell/assets/80487147/9718ee86-fbb4-4625-b6cf-56176eb9d1a0 "Mini Shell")](https://github.com/biralavor/42_minishell)
+> | 8. MiniShell |
 
 ---
 
