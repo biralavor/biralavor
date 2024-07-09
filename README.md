@@ -14,7 +14,8 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 ## 42 School Projects
 > [!TIP]
 > The more latest project, better coded it is 	 __   (҂◡_◡) ᕤ   __
-
+<div style="overflow-x:auto;">
+ 
 <table>
 <tr>
  <th>Phase 1</th>
@@ -42,7 +43,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 | 5. So Long | 6. Mini Talk | 7. Push Swap |
 
  </td></tr> </table>
-
+</div>
 
 > [!WARNING]
 > | Phase 2 - work in progress |
