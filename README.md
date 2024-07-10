@@ -13,7 +13,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 ---
 ## 42 School Projects
 > [!TIP]
-> The more latest project, better coded it is 	 __   (҂◡_◡) ᕤ   __
+> The more latest project, better coded and larger scope it is 	 __   (҂◡_◡) ᕤ   __
 <div style="overflow-x:auto;">
  
 <table>
