@@ -63,7 +63,6 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 [![Banner-playstem_apresenta_milky](https://github.com/biralavor/biralavor/assets/80487147/442aba5b-fee5-4999-9978-936856a7748c "Download the app now: Milky Shaky LAB")](https://play.google.com/store/apps/details?id=com.playSTEMAcademy.MilkyShakyLAB)
 
-![visits](https://another-github-badges.ari.dev.br/badges/visits/biralavor/biralavor)
 
 <!--
 - 🌱 I’m currently learning ...
