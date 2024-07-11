@@ -55,7 +55,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 ## Mobile app -> Milky Shaky LAB 💫
 - 🪐 I've built and published a real-time astronomical mobile game app for kids called `Milky Shaky LAB`. ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
-- 👯 It was done in collaboration with my fellow friends: https://github.com/guilmedev and https://github.com/lucasrdea, with a help from https://github.com/alfredo1995
+- 👯 It was done in collaboration with my fellow friends: https://github.com/guilmedev, https://github.com/lucasrdea, with a help from https://github.com/alfredo1995, https://github.com/nikopaah, and Daniel Portela
 - 📲 You can download `Milky Shaky LAB`, it's **free** and without ads (remember: it's for kids, therefor -> no ads 🚫 no chat, but a lot of **scientific knowledge**)
 
 > [!IMPORTANT]
