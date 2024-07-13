@@ -14,11 +14,20 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 ## 42 School Projects
 > [!TIP]
 > The more latest project, better coded and larger scope it is 	 __   (҂◡_◡) ᕤ   __
+> 
+> **TDD** -> Test Driven Development
+> 
+> **Action** -> Github Actions implemented
+> 
+> **gProject** -> Github Project implemented
+> 
+> **TBD** -> Trunk Based Development (every issue found, turns into a branch. When it's done, it's merged)
+> 
 <div style="overflow-x:auto;">
  
 <table>
 <tr>
- <th>Phase 1</th>
+ <th>Milestone 1</th>
 </tr>
 
  <tr>
@@ -33,23 +42,23 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
  <tr>
   
  <tr>
- <th>Phase 2</th>
+ <th>Milestone 2</th>
 </tr>
 
  <td>
 
 | [![so_longm](https://github.com/biralavor/42_solong/assets/80487147/f760aaf0-3431-4fe8-81a2-09aa87535608 "So_long Project - with Bonus")](https://github.com/biralavor/42_solong) | [![minitalkm](https://github.com/biralavor/42_minitalk/assets/80487147/dd3eea53-d070-48b9-965c-682881ef7ff6 "Mini Talk Project - with Bonus")](https://github.com/biralavor/42_minitalk) | [![push_swape](https://github.com/biralavor/42_pushswap/assets/80487147/90c54513-52ea-419c-8db1-e9c315cbad69 "Push Swap")](https://github.com/biralavor/42_pushswap) |
 | :-: | :-: | :-: |
-| 5. So Long | 6. Mini Talk | 7. Push Swap |
+| 5. So Long | 6. Mini Talk | 7. Push Swap > TDD, Actions |
 
  </td></tr> </table>
 </div>
 
 > [!WARNING]
-> | Phase 2 - work in progress |
+> | Milestone 2 - work in progress |
 > | :-: |
 > [![minishelln](https://github.com/biralavor/42_minishell/assets/80487147/9718ee86-fbb4-4625-b6cf-56176eb9d1a0 "Mini Shell")](https://github.com/biralavor/42_minishell)
-> | 8. MiniShell |
+> | 8. MiniShell > TDD, Actions, gProject, TBD |
 
 ---
 
@@ -62,6 +71,8 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 > [Download the Milky Shaky LAB app at Google Play Store now](https://play.google.com/store/apps/details?id=com.playSTEMAcademy.MilkyShakyLAB)
 
 [![Banner-playstem_apresenta_milky](https://github.com/biralavor/biralavor/assets/80487147/442aba5b-fee5-4999-9978-936856a7748c "Download the app now: Milky Shaky LAB")](https://play.google.com/store/apps/details?id=com.playSTEMAcademy.MilkyShakyLAB)
+
+![](https://komarev.com/ghpvc/?username=biralavor&abbreviated=true&label=profile+views)
 
 
 <!--
