@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paulo](https://42sp.org.br/):
 
 [![status](https://raw.githubusercontent.com/biralavor/github-stats-transparent/output/generated/overview.svg)](#)
@@ -11,17 +11,17 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 - 📫 How to reach me: https://airgo.bio/bira/
 
 ---
-## 42 School Projects
+# 42 School Projects
 > [!TIP]
-> The more latest project, better coded and larger scope it is 	 __   (҂◡_◡) ᕤ   __
+> ## The more latest project, better coded and larger scope it is 	 __   (҂◡_◡) ᕤ   __
 > 
 > **TDD** -> Test Driven Development
 > 
 > **Action** -> Github Actions implemented
 > 
-> **gProject** -> Github Project implemented
+> **GHprojects** -> Github Projects implemented (a great way to pair programming and split tasks)
 > 
-> **TBD** -> Trunk Based Development (every issue found, turns into a branch. When it's done, it's merged)
+> **TBD** -> Trunk Based Development (every issue found, turns into a branch. When it's done, the Pull Request is merged and the branch is deleted automatically)
 > 
 <div style="overflow-x:auto;">
  
@@ -58,7 +58,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 > | Milestone 2 - work in progress |
 > | :-: |
 > [![minishelln](https://github.com/biralavor/42_minishell/assets/80487147/9718ee86-fbb4-4625-b6cf-56176eb9d1a0 "Mini Shell")](https://github.com/biralavor/42_minishell)
-> | 8. MiniShell > TDD, Actions, gProject, TBD |
+> | 8. MiniShell > TDD, Actions, GHprojects, TBD |
 
 ---
 
