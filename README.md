@@ -14,14 +14,16 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 # 42 School Projects
 > [!TIP]
 > ## The more latest project, better coded and larger scope it is 	 __   (҂◡_◡) ᕤ   __
+>
+> Some projects has **">"** as a label for:
 > 
-> **TDD** -> Test Driven Development
+> **TDD** -> Test Driven Development _(a method to faster the literacy and build stronger programs)_
 > 
-> **Action** -> Github Actions implemented
+> **Action** -> Github Actions implemented _(it runs a few services automatically, after `git push`)_
 > 
-> **GHprojects** -> Github Projects implemented (a great way to pair programming and split tasks)
+> **GHprojects** -> Github Projects implemented _(a great way to pair programming and split tasks)_
 > 
-> **TBD** -> Trunk Based Development (every issue found, turns into a branch. When it's done, the Pull Request is merged and the branch is deleted automatically)
+> **TBD** -> Trunk Based Development implemented _(every issue found, turns into a branch. When it's done, the Pull Request is merged and the branch is deleted automatically)_
 > 
 <div style="overflow-x:auto;">
  
