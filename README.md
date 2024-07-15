@@ -17,7 +17,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 >
 > Some projects has **">"** as a label for:
 > 
-> **TDD** -> Test Driven Development _(a method to faster the literacy and build stronger programs)_
+> **TDD** -> Test Driven Development _(a method to faster literacy and build stronger programs)_
 > 
 > **Action** -> Github Actions implemented _(it runs a few services automatically, after `git push`)_
 > 
@@ -79,7 +79,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 # Mobile app published -> Milky Shaky LAB 💫
 - 🪐 I've built and published a real-time astronomical mobile game app for kids called `Milky Shaky LAB`. ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
-- 👯 It was done in collaboration with my fellow friends: https://github.com/guilmedev, https://github.com/lucasrdea >> with a help from https://github.com/alfredo1995, https://github.com/nikopaah, and Daniel Portela
+- 👯 It was done in collaboration with my fellow friends: [Guilherme Sabino](https://github.com/guilmedev), [Lucas Almeida](https://github.com/lucasrdea) >> with a help from [Alfredo Gomes](https://github.com/alfredo1995), [Nikopaah](https://github.com/nikopaah), and [Daniel Portela](https://github.com/PBdaniel)
 - 📲 You can download `Milky Shaky LAB`, it's **free** and without ads (remember: it's for kids, therefor -> no ads 🚫 no chat, but a lot of **scientific knowledge**)
 
 > [!IMPORTANT]
