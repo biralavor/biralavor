@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi there 👋 <img src="https://github.com/user-attachments/assets/f631effd-1eae-47aa-9257-7f6cda239884" width="50" height="50" />
+
 This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paulo](https://42sp.org.br/):
 
 [![status](https://raw.githubusercontent.com/biralavor/github-stats-transparent/output/generated/overview.svg)](#)
