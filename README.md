@@ -12,7 +12,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 - 📫 How to reach me: https://airgo.bio/bira/
 
 ---
-# 42 School Projects
+# 42 Projects - Global Software Engineering School
 > [!TIP]
 > ## The more latest project, better coded and larger scoped it is 	 __   (҂◡_◡) ᕤ   __
 >
