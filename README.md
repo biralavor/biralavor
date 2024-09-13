@@ -18,7 +18,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 >
 > Some projects has **">"** as a label for:
 > 
-> **TDD** -> Test Driven Development _(a method to faster literacy and build stronger programs)_
+> **TDD** -> Test Driven Development _(a method to faster literacy and build stronger programs, with Unit Tests)_
 > 
 > **Action** -> Github Actions implemented _(it runs a few services automatically, after `git push`)_
 > 
