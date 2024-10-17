@@ -16,15 +16,15 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 > [!TIP]
 > ## The more latest project, better coded and larger scoped it is 	 __   (҂◡_◡) ᕤ   __
 >
-> Some projects has **">"** as a label for:
+> As I'm exploring the fundamentals of **DevOps**, some projects has `>` as a label for:
 > 
-> **TDD** -> Test Driven Development _(a method to faster literacy and build stronger programs, with Unit Tests)_
+> **TDD** `>` Test Driven Development _(a method to faster literacy and build stronger programs, with Unit Tests)_
 > 
-> **Action** -> Github Actions implemented _(it runs a few services automatically, after `git push`)_
+> **Action** `>` Github Actions implemented _(it runs a few services automatically, after `git push`)_
 > 
-> **GHprojects** -> Github Projects implemented _(a great way to pair programming and split tasks)_
+> **GHprojects** `>` Github Projects implemented _(a great way to pair programming and split tasks)_
 > 
-> **TBD** -> Trunk Based Development implemented _(every issue found, turns into a branch. When it's done, the Pull Request is merged and the branch is deleted automatically)_
+> **TBD** `>` Trunk Based Development implemented _(every issue found, turns into a branch. When it's done, the Pull Request is merged and the branch is deleted automatically)_
 > 
 <div style="overflow-x:auto;">
  
@@ -64,7 +64,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 | [![so_longm](https://github.com/biralavor/42_solong/assets/80487147/f760aaf0-3431-4fe8-81a2-09aa87535608 "So_long Project - with Bonus")](https://github.com/biralavor/42_solong) | [![minitalkm](https://github.com/biralavor/42_minitalk/assets/80487147/dd3eea53-d070-48b9-965c-682881ef7ff6 "Mini Talk Project - with Bonus")](https://github.com/biralavor/42_minitalk) | [![push_swape](https://github.com/biralavor/42_pushswap/assets/80487147/90c54513-52ea-419c-8db1-e9c315cbad69 "Push Swap")](https://github.com/biralavor/42_pushswap) |
 | :-: | :-: | :-: |
-| 5. So Long | 6. Mini Talk | 7. Push Swap > TDD, Actions |
+| 5. So Long | 6. Mini Talk | 7. Push Swap `>` TDD, Actions |
 
  </td></tr>
 </table>
@@ -78,7 +78,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
  
 | [![minishelln](https://github.com/user-attachments/assets/097957fc-e4e2-42bd-b6f4-89461aa860e5 "Mini Shell")](https://github.com/biralavor/42_minishell) |
 | :-: |
-| 8. MiniShell > TDD, Actions, GHprojects, TBD |
+| 8. MiniShell `>` TDD, Actions, GHprojects, TBD |
 
  </td></tr>
 </table>
@@ -87,7 +87,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 > [!WARNING]
 > | Milestone 3 - work in progress |
 > | :-: |
-> [![minishelln](https://github.com/biralavor/42_minishell/assets/80487147/9718ee86-fbb4-4625-b6cf-56176eb9d1a0 "Mini Shell")](https://github.com/biralavor/42_minishell)
+> [![philosopherse](https://github.com/user-attachments/assets/3a5e657f-80cf-4da6-accd-279d1fdc21da "Philosophers")](https://github.com/biralavor/42_philosophers)
 > | 9. Philoshopers |
 
 ---
