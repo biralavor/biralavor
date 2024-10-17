@@ -75,8 +75,8 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 </tr>
 
 <tr><td>
-
-| [![minishelln](https://github.com/biralavor/42_minishell/assets/80487147/9718ee86-fbb4-4625-b6cf-56176eb9d1a0 "Mini Shell")](https://github.com/biralavor/42_minishell) |
+ 
+| [![minishelln](https://github.com/user-attachments/assets/097957fc-e4e2-42bd-b6f4-89461aa860e5 "Mini Shell")](https://github.com/biralavor/42_minishell) |
 | :-: |
 | 8. MiniShell > TDD, Actions, GHprojects, TBD |
 
@@ -91,8 +91,10 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 > | 9. Philoshopers |
 
 ---
+> [!NOTE]
+> # Mobile app published -> Milky Shaky LAB 💫
+> This is a beside project done C# from studies in C language
 
-# Mobile app published -> Milky Shaky LAB 💫
 - 🪐 I've built and published a real-time astronomical mobile game app for kids called `Milky Shaky LAB`. ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 - 👯 It was done in collaboration with my fellow friends: Marcos Inoue, [Guilherme Sabino](https://github.com/guilmedev), [Lucas Almeida](https://github.com/lucasrdea) >> with a help from [Alfredo Gomes](https://github.com/alfredo1995), [Nikopaah](https://github.com/nikopaah), and [Daniel Portela](https://www.linkedin.com/in/daniel-portela-725637b3/)
 - 📲 You can download `Milky Shaky LAB`, it's **free** and without ads (remember: it's for kids, therefor -> no ads 🚫 no chat, but a lot of **scientific knowledge**)
