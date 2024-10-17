@@ -7,7 +7,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 
 
-- 🔭 I’m a Cadet at [42 São Paulo](https://42sp.org.br/) and currently working on https://github.com/biralavor/42_minishell
+- 🔭 I’m a Cadet at [42 São Paulo](https://42sp.org.br/) and currently working on https://github.com/biralavor/42_philosophers
 - ⚡ STEM Fun fact: I have built a startup to foster curiosity on kids with STEM content ->> https://playSTEM.academy/
 - 📫 How to reach me: https://airgo.bio/bira/
 
@@ -68,13 +68,27 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
  </td></tr>
 </table>
+
+<table>
+<tr>
+<th>Milestone 3</th> 
+</tr>
+
+<tr><td>
+
+| [![minishelln](https://github.com/biralavor/42_minishell/assets/80487147/9718ee86-fbb4-4625-b6cf-56176eb9d1a0 "Mini Shell")](https://github.com/biralavor/42_minishell) |
+| :-: |
+| 8. MiniShell > TDD, Actions, GHprojects, TBD |
+
+ </td></tr>
+</table>
 </div>
 
 > [!WARNING]
 > | Milestone 3 - work in progress |
 > | :-: |
 > [![minishelln](https://github.com/biralavor/42_minishell/assets/80487147/9718ee86-fbb4-4625-b6cf-56176eb9d1a0 "Mini Shell")](https://github.com/biralavor/42_minishell)
-> | 8. MiniShell > TDD, Actions, GHprojects, TBD |
+> | 9. Philoshopers |
 
 ---
 
