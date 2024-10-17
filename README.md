@@ -7,13 +7,15 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 
 
-- 🔭 I’m a Cadet at [42 São Paulo](https://42sp.org.br/) and currently working on https://github.com/biralavor/42_philosophers
+- 🔭 I’m a Cadet Student at [42 São Paulo](https://42sp.org.br/) and currently working on https://github.com/biralavor/42_philosophers
 - ⚡ STEM Fun fact: I have built a startup to foster curiosity on kids with STEM content ->> https://playSTEM.academy/
 - 📫 How to reach me: https://airgo.bio/bira/
 
 ---
-# 42 Projects - Global Software Engineering School
+# 42 The Network - Global Software Engineering School
+42 is the largest free IT school network in the world, with a global presence of 50+ campuses in 30+ countries. Each campus offers the same innovative pedagogy in harmony with the local culture and environment. 42’s student body is a melting pot of cultures, backgrounds, and perspectives from around the world. This unique blend of diversity fosters an environment of creativity and innovation. No other IT school offers such a wide network of campuses. [You can check more about 42 The Network here](https://www.42network.org/)
 > [!TIP]
+> Here is all the projects I have done so far, while studing at [42 São Paulo](https://42sp.org.br/)
 > ## The more latest project, better coded and larger scoped it is 	 __   (҂◡_◡) ᕤ   __
 >
 > As I'm exploring the fundamentals of **DevOps**, some projects has `>` as a label for:
