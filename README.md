@@ -20,9 +20,9 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 >
 > As I'm exploring the fundamentals of **DevOps**, some projects has `>` as a label for:
 > 
-> **TDD** `>` Test Driven Development _(a method to faster literacy and build stronger programs, with Unit Tests)_
+> **Action** `>` Github Actions implemented _(it runs a few services automatically, after `git push`, like `make`, `valgrind`, `norminette`, etc...)_
 > 
-> **Action** `>` Github Actions implemented _(it runs a few services automatically, after `git push`)_
+> **TDD** `>` Test Driven Development _(a method to faster literacy and build stronger programs, with Unit Tests)_
 > 
 > **GHprojects** `>` Github Projects implemented _(a great way to pair programming and split tasks)_
 > 
@@ -80,7 +80,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
  
 | [![minishelln](https://github.com/user-attachments/assets/097957fc-e4e2-42bd-b6f4-89461aa860e5 "Mini Shell")](https://github.com/biralavor/42_minishell) |
 | :-: |
-| 8. MiniShell `>` TDD, Actions, GHprojects, TBD |
+| 8. MiniShell `>` Actions, TDD, GHprojects, TBD |
 
  </td></tr>
 </table>
@@ -90,7 +90,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 > | Milestone 3 - work in progress |
 > | :-: |
 > [![philosopherse](https://github.com/user-attachments/assets/3a5e657f-80cf-4da6-accd-279d1fdc21da "Philosophers")](https://github.com/biralavor/42_philosophers)
-> | 9. Philoshopers |
+> | 9. Philoshopers  `>` Actions, GHprojects, TBD |
 
 ---
 > [!NOTE]
