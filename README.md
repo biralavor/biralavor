@@ -87,7 +87,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 </div>
 
 > [!WARNING]
-> | Milestone 3 - work in progress |
+> | Actual Project |
 > | :-: |
 > [![philosopherse](https://github.com/user-attachments/assets/3a5e657f-80cf-4da6-accd-279d1fdc21da "Philosophers")](https://github.com/biralavor/42_philosophers)
 > | 9. Philoshopers  `>` Actions, GHprojects, TBD |
