@@ -102,7 +102,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 - 📲 You can download `Milky Shaky LAB`, it's **free** and without ads (remember: it's for kids, therefor -> no ads 🚫 no chat, but a lot of **scientific knowledge**)
 
 > [!IMPORTANT]
-> Due new Google Play Policy Restrictions, Milky Shaky LAB was temporarily removed from the store. It needs to be updated, but I didn't have spare time yet. I hope I make it!
+> Due new Google Play Policy Restrictions, Milky Shaky LAB was temporarily removed from the store. It needs to be updated, but I didn't have spare time yet. I hope I'll make it!
 [![Banner-playstem_apresenta_milky](https://github.com/biralavor/biralavor/assets/80487147/442aba5b-fee5-4999-9978-936856a7748c "app: Milky Shaky LAB")](https://playstem.academy)
 
 ![](https://komarev.com/ghpvc/?username=biralavor&abbreviated=true&label=profile+views)
