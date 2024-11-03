@@ -20,13 +20,17 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 >
 > As I'm exploring the fundamentals of **DevOps**, some projects has `>` as a label for:
 > 
-> `>` $\color{BurntOrange}{ACTIONS\ ::\ Github\ Actions\ implemented}$ :: _it runs a few services automatically, after `git push`, like: `make`, `valgrind`, `norminette`, etc..._
+> `>` $\color{BurntOrange}{ACTIONS\ ::\ Github\ Actions\ implemented}$
+> > _it runs a few services automatically, after `git push`, like: `make`, `valgrind`, `norminette`, etc..._
 > 
-> `>` $\color{Aquamarine}{TDD\ ::\ Test\ Driven\ Development\ implemented}$ :: _a method to fasten literacy problem context and build stronger programs, with Unit Tests_
+> `>` $\color{Aquamarine}{TDD\ ::\ Test\ Driven\ Development\ implemented}$
+> > _a method to fasten literacy problem context and build stronger programs, with Unit Tests_
 > 
-> `>` $\color{Goldenrod}{GHprojects\ ::\ Github\ Projects\ implemented}$ :: _a great tool for pair programming and split multiple tasks_
+> `>` $\color{Goldenrod}{GHprojects\ ::\ Github\ Projects\ implemented}$ 
+> > _a great tool for pair programming and split multiple tasks_
 > 
-> `>` $\color{Magenta}{TBD\ ::\ Trunk\ Based\ Development\ implemented}$ :: _every issue found, turns into a branch. When it's done, the Pull Request is merged and the branch is deleted automatically_
+> `>` $\color{Magenta}{TBD\ ::\ Trunk\ Based\ Development\ implemented}$
+> > _every issue found, turns into a branch. When it's done, the Pull Request is merged and the branch is deleted automatically_
 > 
 <div style="overflow-x:auto;">
  
