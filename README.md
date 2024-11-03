@@ -20,13 +20,13 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 >
 > As I'm exploring the fundamentals of **DevOps**, some projects has `>` as a label for:
 > 
-> **Action** `>` Github Actions implemented _(it runs a few services automatically, after `git push`, like `make`, `valgrind`, `norminette`, etc...)_
+> `>` $\color{BurntOrange}{ACTIONS\ ::\ Github\ Actions\ implemented}$ :: _it runs a few services automatically, after `git push`, like: `make`, `valgrind`, `norminette`, etc..._
 > 
-> **TDD** `>` Test Driven Development _(a method to faster literacy and build stronger programs, with Unit Tests)_
+> `>` $\color{Aquamarine}{TDD\ ::\ Test\ Driven\ Development\ implemented}$ :: _a method to fasten literacy problem context and build stronger programs, with Unit Tests_
 > 
-> **GHprojects** `>` Github Projects implemented _(a great way to pair programming and split tasks)_
+> `>` $\color{Goldenrod}{GHprojects\ ::\ Github\ Projects\ implemented}$ :: _a great tool for pair programming and split multiple tasks_
 > 
-> **TBD** `>` Trunk Based Development implemented _(every issue found, turns into a branch. When it's done, the Pull Request is merged and the branch is deleted automatically)_
+> `>` $\color{Magenta}{TBD\ ::\ Trunk\ Based\ Development\ implemented}$ :: _every issue found, turns into a branch. When it's done, the Pull Request is merged and the branch is deleted automatically_
 > 
 <div style="overflow-x:auto;">
  
@@ -66,7 +66,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 | [![so_longm](https://github.com/biralavor/42_solong/assets/80487147/f760aaf0-3431-4fe8-81a2-09aa87535608 "So_long Project - with Bonus")](https://github.com/biralavor/42_solong) | [![minitalkm](https://github.com/biralavor/42_minitalk/assets/80487147/dd3eea53-d070-48b9-965c-682881ef7ff6 "Mini Talk Project - with Bonus")](https://github.com/biralavor/42_minitalk) | [![push_swape](https://github.com/biralavor/42_pushswap/assets/80487147/90c54513-52ea-419c-8db1-e9c315cbad69 "Push Swap")](https://github.com/biralavor/42_pushswap) |
 | :-: | :-: | :-: |
-| 5. So Long | 6. Mini Talk | 7. Push Swap `>` TDD, Actions |
+| 5. So Long | 6. Mini Talk | 7. Push Swap `>` $\color{Aquamarine}{TDD}$, $\color{BurntOrange}{Actions}$ |
 
  </td></tr>
 </table>
@@ -80,7 +80,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
  
 | [![minishelln](https://github.com/user-attachments/assets/097957fc-e4e2-42bd-b6f4-89461aa860e5 "Mini Shell")](https://github.com/biralavor/42_minishell) |
 | :-: |
-| 8. MiniShell `>` Actions, TDD, GHprojects, TBD |
+| 8. MiniShell `>` $\color{BurntOrange}{Actions}$, $\color{Aquamarine}{TDD}$, $\color{Goldenrod}{GHprojects}$, $\color{Magenta}{TBD}$ |
 
  </td></tr>
 </table>
@@ -90,7 +90,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 > | Actual Project |
 > | :-: |
 > [![philosopherse](https://github.com/user-attachments/assets/3a5e657f-80cf-4da6-accd-279d1fdc21da "Philosophers")](https://github.com/biralavor/42_philosophers)
-> | 9. Philoshopers  `>` Actions, GHprojects, TBD |
+> | 9. Philoshopers  `>` $\color{BurntOrange}{Actions}$, $\color{Goldenrod}{GHprojects}$, $\color{Magenta}{TBD}$ |
 
 ---
 > [!NOTE]
