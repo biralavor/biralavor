@@ -82,19 +82,19 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 <tr><td>
  
-| [![minishelln](https://github.com/user-attachments/assets/097957fc-e4e2-42bd-b6f4-89461aa860e5 "Mini Shell")](https://github.com/biralavor/42_minishell) |
-| :-: |
-| 8. MiniShell `>` $\color{BurntOrange}{Actions}$, $\color{Aquamarine}{TDD}$, $\color{Goldenrod}{GHprojects}$, $\color{Magenta}{TBD}$ |
+| [![minishelln](https://github.com/user-attachments/assets/097957fc-e4e2-42bd-b6f4-89461aa860e5 "Mini Shell")](https://github.com/biralavor/42_minishell) | [![philosopherse](https://github.com/user-attachments/assets/3a5e657f-80cf-4da6-accd-279d1fdc21da "Philosophers")](https://github.com/biralavor/42_philosophers) |
+| :-: | :-: | 
+| 8. MiniShell `>` $\color{BurntOrange}{Actions}$, $\color{Aquamarine}{TDD}$, $\color{Goldenrod}{GHprojects}$, $\color{Magenta}{TBD}$ | 9. Philoshopers  `>` $\color{BurntOrange}{Actions}$, $\color{Aquamarine}{TDD}$, $\color{Goldenrod}{GHprojects}$, $\color{Magenta}{TBD}$ |
 
  </td></tr>
 </table>
 </div>
 
 > [!WARNING]
-> | Actual Project |
+> | Actual Project - Milestone 4|
 > | :-: |
-> [![philosopherse](https://github.com/user-attachments/assets/3a5e657f-80cf-4da6-accd-279d1fdc21da "Philosophers")](https://github.com/biralavor/42_philosophers)
-> | 9. Philoshopers  `>` $\color{BurntOrange}{Actions}$, $\color{Aquamarine}{TDD}$, $\color{Goldenrod}{GHprojects}$, $\color{Magenta}{TBD}$ |
+> [![cub3de](https://github.com/user-attachments/assets/1cfe735e-9574-4941-8bcf-4694896f40b5 "Cube 3D")](https://github.com/biralavor/42_cube3D)
+> | 10. Cube3D  `>` $\color{BurntOrange}{Actions}$, $\color{Aquamarine}{TDD}$, $\color{Goldenrod}{GHprojects}$, $\color{Magenta}{TBD}$ |
 
 ---
 > [!NOTE]
