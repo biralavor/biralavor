@@ -7,9 +7,12 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 
 
-- 🔭 I’m a Cadet Student at [42 São Paulo](https://42sp.org.br/) and currently working on https://github.com/biralavor/42_philosophers
+- 🔭 I’m a Cadet Student at [42 São Paulo](https://42sp.org.br/)
+- I'm also studying another BTech Degree at [FIAP's: Systems Analysis and Development](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
+- I like to code in C, but [Python is catching my attention more and more](https://github.com/biralavor/42_discovery_piscine_Python)
+- At FIAp, I'm learning [Java - and you can check here](https://github.com/biralavor/FIAP-DomainDrivenDesign-JAVA)
 - ⚡ STEM Fun fact: I have built a startup to foster curiosity on kids with STEM content ->> https://playSTEM.academy/
-- 📫 How to reach me: https://airgo.bio/bira/
+- 📫 [How to reach me here](https://airgo.bio/bira/)
 
 ---
 # 42 The Network - Global Software Engineering School
