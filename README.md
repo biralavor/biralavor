@@ -7,11 +7,11 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 
 
-- 🔭 I’m a Cadet Student at [42 São Paulo](https://42sp.org.br/)
+- I’m a Cadet Student at [42 São Paulo](https://42sp.org.br/)
 - I'm also studying another BTech Degree at [FIAP's: Systems Analysis and Development](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
 - I like to code in C, but [Python is catching my attention more and more](https://github.com/biralavor/42_discovery_piscine_Python)
-- At FIAp, I'm learning [Java - and you can check here](https://github.com/biralavor/FIAP-DomainDrivenDesign-JAVA)
-- ⚡ STEM Fun fact: I have built a startup to foster curiosity on kids with STEM content ->> https://playSTEM.academy/
+- At FIAP, I'm learning [Java - and you can check here](https://github.com/biralavor/FIAP-DomainDrivenDesign-JAVA)
+- ⚡ STEM Fun fact: I have built a startup to foster curiosity on kids with STEM content 🔭 ->> https://playSTEM.academy/
 - 📫 [How to reach me here](https://airgo.bio/bira/)
 
 ---
@@ -103,6 +103,11 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 
 > All 42 Badges -- the astronomer Human Coder -- were done by Larissa Cristina [@mewmewdevart](https://github.com/mewmewdevart/42Badges)
+
+---
+>[!Tip]
+> At FIAP University, I'm taking a Btech degree, and here is my actual grades: **93 / 100**
+>![image](https://github.com/user-attachments/assets/bdd0b29e-f0ea-4f00-900c-495b2c8533f9)
 
 ---
 > [!NOTE]
