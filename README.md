@@ -105,8 +105,9 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 > All 42 Badges -- the astronomer Human Coder -- were done by Larissa Cristina [@mewmewdevart](https://github.com/mewmewdevart/42Badges)
 
 ---
+# Running a second BTech degree at the same time -> FIAP
 >[!Tip]
-> At FIAP University, I'm taking a Btech degree, and here is my actual grades: **93 / 100**
+> At **FIAP University**, I'm taking another Btech degree, and here is my actual grades: **93 / 100**
 >![image](https://github.com/user-attachments/assets/bdd0b29e-f0ea-4f00-900c-495b2c8533f9)
 
 ---
