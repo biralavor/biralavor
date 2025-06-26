@@ -11,7 +11,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 - At [FIAP](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) I'm also studying another BTech Degree: Systems Engineering
 - I like to code in C, but [Python is catching my attention more and more](https://github.com/biralavor/42_discovery_piscine_Python)
 - At FIAP, I'm learning [JAVA - and you can check here](https://github.com/biralavor/FIAP-DomainDrivenDesign-JAVA)
-- ⚡ STEM Fun fact: I have built a startup to foster curiosity on kids with STEM content 🔭 ->> https://playSTEM.academy/
+- ⚡ STEM Fun fact: I have built a startup to foster curiosity on kids with STEM content 🔭 ->> [playSTEM academy](https://biralavor.github.io/playstem_academy/)
 - 📫 [How to reach me here](https://airgo.bio/bira/)
 
 ---
@@ -130,7 +130,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 > [!IMPORTANT]
 > Due new Google Play Policy Restrictions, Milky Shaky LAB was temporarily removed from the store. It needs to be updated, but I didn't have spare time yet. I hope I'll make it!
-[![Banner-playstem_apresenta_milky](https://github.com/biralavor/biralavor/assets/80487147/442aba5b-fee5-4999-9978-936856a7748c "app: Milky Shaky LAB")](https://playstem.academy)
+[![Banner-playstem_apresenta_milky](https://github.com/biralavor/biralavor/assets/80487147/442aba5b-fee5-4999-9978-936856a7748c "app: Milky Shaky LAB")](https://biralavor.github.io/playstem_academy/)
 
 ![](https://komarev.com/ghpvc/?username=biralavor&abbreviated=true&label=profile+views)
 
