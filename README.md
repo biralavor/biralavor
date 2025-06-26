@@ -1,16 +1,16 @@
 # Hi there 👋 <img src="https://github.com/user-attachments/assets/f631effd-1eae-47aa-9257-7f6cda239884" width="50" height="50" />
 
-This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paulo](https://42sp.org.br/):
+This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paulo](https://42sp.org.br/) and [FIAP](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/):
 
 [![status](https://raw.githubusercontent.com/biralavor/github-stats-transparent/output/generated/overview.svg)](#)
 [![languages](https://raw.githubusercontent.com/biralavor/github-stats-transparent/output/generated/languages.svg)](#)
 
 
 
-- I’m a Cadet Student at [42 São Paulo](https://42sp.org.br/)
-- I'm also studying another BTech Degree at [FIAP's: Systems Analysis and Development](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
+- At [42 São Paulo](https://42sp.org.br/), I’m a Software Engineering Cadet Student
+- At [FIAP](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) I'm also studying another BTech Degree: Systems Engineering
 - I like to code in C, but [Python is catching my attention more and more](https://github.com/biralavor/42_discovery_piscine_Python)
-- At FIAP, I'm learning [Java - and you can check here](https://github.com/biralavor/FIAP-DomainDrivenDesign-JAVA)
+- At FIAP, I'm learning [JAVA - and you can check here](https://github.com/biralavor/FIAP-DomainDrivenDesign-JAVA)
 - ⚡ STEM Fun fact: I have built a startup to foster curiosity on kids with STEM content 🔭 ->> https://playSTEM.academy/
 - 📫 [How to reach me here](https://airgo.bio/bira/)
 
