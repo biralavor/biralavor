@@ -22,7 +22,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 
 > [!TIP]
-> Here is all the projects I have done so far, while studing at [42 São Paulo](https://42sp.org.br/)
+> Here is all the projects I have done so far, while studing at [42 São Paulo](https://42sp.org.br/) (on going formation)
 > ## The more latest project, better coded and larger scoped it is 	 __   (҂◡_◡) ᕤ   __
 >
 > As I'm exploring the fundamentals of **DevOps**, some projects has `>` as a label for:
