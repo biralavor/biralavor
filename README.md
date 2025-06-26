@@ -16,7 +16,11 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 ---
 # 42 The Network - Global Software Engineering School
-42 is the largest free IT school network in the world, with a global presence of 50+ campuses in 30+ countries. Each campus offers the same innovative pedagogy in harmony with the local culture and environment. 42’s student body is a melting pot of cultures, backgrounds, and perspectives from around the world. This unique blend of diversity fosters an environment of creativity and innovation. No other IT school offers such a wide network of campuses. [You can check more about 42 The Network here](https://www.42network.org/)
+| 42 The Network | [You can check more about 42 The Network here](https://www.42network.org/) |
+| - | - |
+| ![image](https://github.com/user-attachments/assets/63623e7f-e76f-4632-9957-058286ec20bb) | **[42](https://www.42network.org/)** is the largest free IT school network in the world, with a global presence of 50+ campuses in 30+ countries. Each campus offers the same innovative pedagogy in harmony with the local culture and environment. 42’s student body is a melting pot of cultures, backgrounds, and perspectives from around the world. This unique blend of diversity fosters an environment of creativity and innovation. No other IT school offers such a wide network of campuses. |
+
+
 > [!TIP]
 > Here is all the projects I have done so far, while studing at [42 São Paulo](https://42sp.org.br/)
 > ## The more latest project, better coded and larger scoped it is 	 __   (҂◡_◡) ᕤ   __
@@ -106,6 +110,11 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 ---
 # Running a second BTech degree at the same time -> FIAP
+| FIAP | Systems Engineering BTech Degree |
+| - | - |
+| ![image](https://github.com/user-attachments/assets/ad1d1bc1-22d6-4d89-a817-9efe43f9544d) | Fev 2025 - Dez 2026 (on going formation) <br><br> **Fields of Study:** <br> Domain Driven Design with Java (using IntelliJ) <br> Building Relational Database (using Oracle Database Modeler) <br> Artificial Intelligence & Chat-bot (using IBM WatsonX, IBM Cloud) <br> Software Engineering and Business Model <br> Front-end Design Engineering <br> Computational Thinking with Python |
+
+
 >[!Tip]
 > At **FIAP University**, I'm taking another Btech degree, and here is my actual grades: **93 / 100**
 >![image](https://github.com/user-attachments/assets/bdd0b29e-f0ea-4f00-900c-495b2c8533f9)
