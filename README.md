@@ -112,14 +112,15 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 # Running a second BTech degree at the same time -> FIAP
 | FIAP | Systems Engineering BTech Degree |
 | - | - |
-| ![image](https://github.com/user-attachments/assets/ad1d1bc1-22d6-4d89-a817-9efe43f9544d) | Fev 2025 - Dez 2026 (on going formation) <br><br> **Fields of Study:** <br> Domain Driven Design with Java (using IntelliJ) <br> Building Relational Database (using Oracle Database Modeler) <br> Artificial Intelligence & Chat-bot (using IBM WatsonX, IBM Cloud) <br> Software Engineering and Business Model <br> Front-end Design Engineering <br> Computational Thinking with Python |
+| ![image](https://github.com/user-attachments/assets/ad1d1bc1-22d6-4d89-a817-9efe43f9544d) | Fev 2025 - Dez 2026 (on going formation) <br><br> **Fields of Study:** <br> Artificial Intelligence & Chat-bot (using IBM WatsonX, IBM Cloud) <br> Building Relational Database (using Oracle Database Modeler) <br> Computational Thinking with Python <br> Domain Driven Design with Java (using IntelliJ) <br> Front-end Design Engineering <br> Software Engineering and Business Model |
 
 
 >[!Tip]
-> At **FIAP University**, I'm taking another Btech degree, and here is my actual grades: **93 / 100**
+> Here is my actual grades at **FIAP University**: **93 / 100**
 >![image](https://github.com/user-attachments/assets/bdd0b29e-f0ea-4f00-900c-495b2c8533f9)
 
 ---
+# Side Projects
 > [!NOTE]
 > # Mobile app published -> Milky Shaky LAB 💫
 > This is a beside project done C# from studies in C language
