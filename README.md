@@ -9,7 +9,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 - At [42 São Paulo](https://42sp.org.br/), I’m a Software Engineering Cadet Student
 - At [FIAP](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) I'm also studying another BTech Degree: Systems Engineering
-- I like to code in C, but [Python is catching my attention more and more](https://github.com/biralavor/42_discovery_piscine_Python)
+- I enjoy coding in C, but [Python is increasingly capturing my aha-moments](https://github.com/biralavor/42_discovery_piscine_Python)
 - At FIAP, I'm learning [JAVA - and you can check here](https://github.com/biralavor/FIAP-DomainDrivenDesign-JAVA)
 - ⚡ STEM Fun fact: I have built a startup to foster curiosity on kids with STEM content 🔭 ->> [playSTEM academy](https://biralavor.github.io/playstem_academy/)
 - 📫 [How to reach me here](https://airgo.bio/bira/)
@@ -22,10 +22,10 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 
 > [!TIP]
-> Here is all the projects I have done so far, while studing at [42 São Paulo](https://42sp.org.br/) (on going formation)
-> ## The more latest project, better coded and larger scoped it is 	 __   (҂◡_◡) ᕤ   __
+> Here are all the projects I have done so far, while studying at [42 São Paulo](https://42sp.org.br/) (on going formation)
+> ## The later the project, the better the code and the bigger the scope 	 __   (҂◡_◡) ᕤ   __
 >
-> As I'm exploring the fundamentals of **DevOps**, some projects has `>` as a label for:
+> As I'm exploring the fundamentals of **DevOps**, some projects have `>` as a label for:
 > 
 > `>` ⏩ Actions :: Github Actions implemented
 > > _it runs a few services automatically, after `git push`, like: `make`, `valgrind`, `norminette`, etc..._
@@ -37,7 +37,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 > > _a great tool for pair programming and split multiple tasks_
 > 
 > `>` 🔩 TBD :: Trunk Based Development implemented
-> > _every issue found, turns into a branch. When it's done, the Pull Request is merged and the branch is deleted automatically_
+> > _every issue found turns into a new branch. When it's done, the Pull Request is merged and the branch is deleted automatically_
 >
 > `>` 🔗 PPP :: Pair Programming Project with the headcount
 > > _this project was built together, in a balanced workload routine - in most of the time_
@@ -109,7 +109,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 > All 42 Badges -- the astronomer Human Coder -- were done by Larissa Cristina [@mewmewdevart](https://github.com/mewmewdevart/42Badges)
 
 ---
-# Running a second BTech degree at the same time -> FIAP
+# Running a second BTech degree simultaneously -> FIAP
 | FIAP | Systems Engineering BTech Degree |
 | - | - |
 | ![image](https://github.com/user-attachments/assets/ad1d1bc1-22d6-4d89-a817-9efe43f9544d) | Fev 2025 - Dez 2026 (on going formation) <br><br> **Fields of Study:** <br> Artificial Intelligence & Chat-bot (using IBM WatsonX, IBM Cloud) <br> Building Relational Database (using Oracle Database Modeler) <br> Computational Thinking with Python <br> Domain Driven Design with Java (using IntelliJ) <br> Front-end Design Engineering <br> Software Engineering and Business Model |
@@ -127,10 +127,10 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 - 🪐 I've built and published a real-time astronomical mobile game app for kids called `Milky Shaky LAB`. ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 - 👯 It was done in collaboration with my fellow friends: Marcos Inoue, [Guilherme Sabino](https://github.com/guilmedev), [Lucas Almeida](https://github.com/lucasrdea) >> with a help from [Alfredo Gomes](https://github.com/alfredo1995), [Nikopaah](https://github.com/nikopaah), and [Daniel Portela](https://www.linkedin.com/in/daniel-portela-725637b3/)
-- 📲 You can download `Milky Shaky LAB`, it's **free** and without ads (remember: it's for kids, therefor -> no ads 🚫 no chat, but a lot of **scientific knowledge**)
+- 📲 You can download `Milky Shaky LAB`, it's **free** and without ads (remember: it's for kids, therefor -> no ads 🚫 no chat - just **scientific knowledge**)
 
 > [!IMPORTANT]
-> Due new Google Play Policy Restrictions, Milky Shaky LAB was temporarily removed from the store. It needs to be updated, but I didn't have spare time yet. I hope I'll make it!
+> Due new Google Play policy restrictions, Milky Shaky LAB was temporarily shutdown from the store. It needs to be updated, but I didn't have spare time yet. I hope I'll make it!
 [![Banner-playstem_apresenta_milky](https://github.com/biralavor/biralavor/assets/80487147/442aba5b-fee5-4999-9978-936856a7748c "app: Milky Shaky LAB")](https://biralavor.github.io/playstem_academy/)
 
 ![](https://komarev.com/ghpvc/?username=biralavor&abbreviated=true&label=profile+views)
