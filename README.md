@@ -122,7 +122,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 # Running a second BTech degree simultaneously -> FIAP
 | FIAP | Systems Engineering BTech Degree |
 | - | - |
-| ![image](https://github.com/user-attachments/assets/ad1d1bc1-22d6-4d89-a817-9efe43f9544d) | Jan 2025 - Dez 2026 (on going formation) <br><br> **Fields of Study:** <br> Artificial Intelligence & Chat-bot (using IBM WatsonX, IBM Cloud) <br> Building Relational Database (using Oracle Database Modeler) <br> Computational Thinking with Python <br> Domain Driven Design with Java (using IntelliJ) <br> Front-end Design Engineering <br> Software Engineering and Business Model |
+| ![image](https://github.com/user-attachments/assets/ad1d1bc1-22d6-4d89-a817-9efe43f9544d) | Jan 2025 - Dez 2026 (on going formation) <br><br> **Fields of Study:** <br> Artificial Intelligence & Chat-bot (using IBM WatsonX, IBM Cloud) <br> Building Relational Database (using Oracle Database Modeler) <br> Computational Thinking with Python <br> Domain Driven Design with Java (using IntelliJ) <br> Front-end Design Engineering (HTML, CSS, JavaScript) <br> Software Engineering and Business Model |
 
 
 >[!Tip]
