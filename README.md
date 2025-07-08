@@ -98,12 +98,22 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
  </td></tr>
 </table>
-</div>
 
-| Actual Project - Milestone 4|
-| :-: |
-[![cub3de](https://github.com/user-attachments/assets/1cfe735e-9574-4941-8bcf-4694896f40b5 "Cube 3D")](https://github.com/biralavor/42_cube3D)
-| 10. Cube3D <br> `>` ⏩ Actions, 🚸 TDD, 📐 GHprojects, 🔩 TBD, 🔗 PPP02
+<table>
+<tr>
+<th>Milestone 4</th> 
+</tr>
+
+<tr><td>
+ 
+| [![cub3de-with-bonus](https://github.com/user-attachments/assets/7b10ec95-6406-4ef8-9ba1-e7636de3e996 "Cube 3D with Bonus")](https://github.com/biralavor/42_cube3D) | <<<< Actual project >>>> <br> [![cpp-list-0to4](https://github.com/user-attachments/assets/04a63315-559b-4bc3-a222-ce8323b7baee "CPP Lists 0 to 4")](https://github.com/biralavor/42_CPP_Module00_to_04) | 
+| :-: | :-: |
+| 10. Cube3D <br> `>` ⏩ Actions, 🚸 TDD, 📐 GHprojects, 🔩 TBD, 🔗 PPP02 | 11. CPP Lists{0..4} <br> `>` 🚸 TDD, 📐 GHprojects, 🔩 TBD | 
+
+ </td></tr>
+</table>
+
+</div>
 
 
 > All 42 Badges -- the astronomer Human Coder -- were done by Larissa Cristina [@mewmewdevart](https://github.com/mewmewdevart/42Badges)
