@@ -23,7 +23,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 > [!TIP]
 > Here are all the projects I have done so far, while studying at [42 São Paulo](https://42sp.org.br/) (on going formation)
-> ## The later the project, the better the code and the bigger the scope 	 __   (҂◡_◡) ᕤ   __
+> ## The later the project, the better the code & the bigger the scope __   (҂◡_◡) ᕤ   __
 >
 > As I'm exploring the fundamentals of **DevOps**, some projects have `>` as a label for:
 > 
