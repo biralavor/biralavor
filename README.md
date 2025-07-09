@@ -6,19 +6,18 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 [![languages](https://raw.githubusercontent.com/biralavor/github-stats-transparent/output/generated/languages.svg)](#)
 
 
-
 - At [42 São Paulo](https://42sp.org.br/), I’m a Software Engineering Cadet Student
 - At [FIAP](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) I'm also studying another BTech Degree: Systems Engineering
 - I enjoy coding in C, but [Python is increasingly capturing my aha-moments](https://github.com/biralavor/42_discovery_piscine_Python)
 - At FIAP, I'm learning [JAVA - and you can check here](https://github.com/biralavor/FIAP-DomainDrivenDesign-JAVA)
 - ⚡ STEM Fun fact: I have built a startup to foster curiosity on kids with STEM content 🔭 ->> [playSTEM academy](https://biralavor.github.io/playstem_academy/)
-- 📫 [How to reach me here](https://airgo.bio/bira/)
+- 📫 [How to reach me](https://airgo.bio/bira/)
 
 ---
-# 42 The Network - Global Software Engineering School
+# 42 The Network -> Global Software Engineering School
 | 42 The Network | [You can check more about 42 The Network here](https://www.42network.org/) |
 | - | - |
-| ![image](https://github.com/user-attachments/assets/63623e7f-e76f-4632-9957-058286ec20bb) | **[42](https://www.42network.org/)** is the largest free IT school network in the world, with a global presence of 50+ campuses in 30+ countries. Each campus offers the same innovative pedagogy in harmony with the local culture and environment. 42’s student body is a melting pot of cultures, backgrounds, and perspectives from around the world. This unique blend of diversity fosters an environment of creativity and innovation. No other IT school offers such a wide network of campuses. |
+| ![image](https://github.com/user-attachments/assets/63623e7f-e76f-4632-9957-058286ec20bb) | **[42](https://www.42network.org/)** is the largest free IT school network in the world, with a global presence of 50+ campuses in 30+ countries. Each campus offers the same innovative pedagogy in harmony with the local culture and environment. 42’s student body is a melting pot of cultures, backgrounds, and perspectives from around the world. This unique blend of diversity fosters an environment of creativity and innovation. No other IT school offers such a wide network of campuses. I'm studying at [42 São Paulo](https://42sp.org.br/) campus. |
 
 
 > [!TIP]
@@ -112,28 +111,27 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
  </td></tr>
 </table>
-
 </div>
 
 
 > All 42 Badges -- the astronomer Human Coder -- were done by Larissa Cristina [@mewmewdevart](https://github.com/mewmewdevart/42Badges)
 
 ---
-# Running a second BTech degree simultaneously -> FIAP
+# FIAP -> Running a second BTech degree simultaneously
 | FIAP | Systems Engineering BTech Degree |
 | - | - |
-| ![image](https://github.com/user-attachments/assets/ad1d1bc1-22d6-4d89-a817-9efe43f9544d) | Jan 2025 - Dez 2026 (on going formation) <br><br> **Fields of Study:** <br> Artificial Intelligence & Chat-bot (using IBM WatsonX, IBM Cloud) <br> Building Relational Database (using Oracle Database Modeler) <br> Computational Thinking with Python <br> Domain Driven Design with Java (using IntelliJ) <br> Front-end Design Engineering (HTML, CSS, JavaScript, Figma) <br> Software Engineering and Business Model (Jira, Miro, Scrum, Kanban) |
+| [![image](https://github.com/user-attachments/assets/ad1d1bc1-22d6-4d89-a817-9efe43f9544d)](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) | Jan 2025 - Dez 2026 (on going formation) <br><br> **Fields of Study:** <br> Artificial Intelligence & Chat-bot (using IBM WatsonX, IBM Cloud) <br> Building Relational Database (using Oracle Database Modeler) <br> Computational Thinking with Python <br> Domain Driven Design with Java (using IntelliJ) <br> Front-end Design Engineering (HTML, CSS, JavaScript, Figma) <br> Software Engineering and Business Model (Jira, Miro, Scrum, Kanban) |
 
 
 >[!Tip]
 > Here is my actual grades at **FIAP University**: **93 / 100**
->![image](https://github.com/user-attachments/assets/bdd0b29e-f0ea-4f00-900c-495b2c8533f9)
+>[![image](https://github.com/user-attachments/assets/bdd0b29e-f0ea-4f00-900c-495b2c8533f9)](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
 
 ---
 # Side Projects
 > [!NOTE]
 > # Mobile app published -> Milky Shaky LAB 💫
-> This is a beside project done C# from studies in C language
+> This is a beside project done in C#
 
 - 🪐 I've built and published a real-time astronomical mobile game app for kids called `Milky Shaky LAB`. ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 - 👯 It was done in collaboration with my fellow friends: Marcos Inoue, [Guilherme Sabino](https://github.com/guilmedev), [Lucas Almeida](https://github.com/lucasrdea) >> with a help from [Alfredo Gomes](https://github.com/alfredo1995), [Nikopaah](https://github.com/nikopaah), and [Daniel Portela](https://www.linkedin.com/in/daniel-portela-725637b3/)
@@ -143,6 +141,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 > Due new Google Play policy restrictions, Milky Shaky LAB was temporarily shutdown from the store. It needs to be updated, but I didn't have spare time yet. I hope I'll make it!
 [![Banner-playstem_apresenta_milky](https://github.com/biralavor/biralavor/assets/80487147/442aba5b-fee5-4999-9978-936856a7748c "app: Milky Shaky LAB")](https://biralavor.github.io/playstem_academy/)
 
+---
 ![](https://komarev.com/ghpvc/?username=biralavor&abbreviated=true&label=profile+views)
 
 
