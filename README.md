@@ -120,12 +120,23 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 # FIAP -> Running a second BTech degree simultaneously
 | FIAP | Systems Engineering BTech Degree |
 | - | - |
-| [![image](https://github.com/user-attachments/assets/ad1d1bc1-22d6-4d89-a817-9efe43f9544d)](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) | Jan 2025 - Dez 2026 (on going formation) <br><br> **Fields of Study:** <br> Artificial Intelligence & Chat-bot (using IBM WatsonX, IBM Cloud) <br> Building Relational Database (using Oracle Database Modeler) <br> Computational Thinking with Python <br> Domain Driven Design with Java (using IntelliJ) <br> Front-end Design Engineering (HTML, CSS, JavaScript, Figma) <br> Software Engineering and Business Model (Jira, Miro, Scrum, Kanban) |
+| [![image](https://github.com/user-attachments/assets/ad1d1bc1-22d6-4d89-a817-9efe43f9544d)](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) | Jan 2025 - Dez 2026 (on going formation) <br><br> **Fields of Study:** <br> Artificial Intelligence & Chat-bot (using IBM WatsonX, IBM Cloud) <br> Building Relational Database (using Oracle SQL Database Modeler) <br> Computational Thinking with Python <br> Domain Driven Design with Java (using IntelliJ) <br> Front-end Design Engineering (HTML, CSS, JavaScript, Figma) <br> Software Engineering and Business Model (Jira, Miro, Scrum, Kanban) |
 
 
->[!Tip]
+>[!TIP]
 > Here is my actual grades at **FIAP University**: **93 / 100**
+>
 >[![image](https://github.com/user-attachments/assets/bdd0b29e-f0ea-4f00-900c-495b2c8533f9)](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
+
+>[!IMPORTANT]
+>  At 2025 July, we joined the FIAP's Hackathon about Climite Crisis, a.k.a **Global Solution**.
+>
+> My teammate and I developed a huge project idea about the climate crisis with barometric sensors, multiple machine learning models, data lake and a big chatbot in just 12 days. We also delivered S.I.R.E.N.A. (Sistema Integrado de Resposta às Emergências e Notificações Ambientais -> in portuguese), a simulation system that manages data structures, GPS, and environmental incident history to suggest the user to move to a safer place.
+>
+> [Checkout our repo about 2025.1 Global Solutions](https://github.com/biralavor/FIAP-GlobalSolution-2025-1) -> GRADE **94/100**
+>
+> <img width="846" height="480" alt="image" src="https://github.com/user-attachments/assets/02c90a25-5e5c-481c-955e-2b46f7483ffd" />
+
 
 ---
 # Side Projects
