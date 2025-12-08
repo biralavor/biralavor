@@ -124,9 +124,8 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 
 >[!TIP]
-> Here is my actual grades at **FIAP University**: **93 / 100**
->
->[![image](https://github.com/user-attachments/assets/bdd0b29e-f0ea-4f00-900c-495b2c8533f9)](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
+> Here are my actual 1st year grades of the BTech Graduation at **FIAP University - Systems Engineering**: **92 / 100**
+> [<img width="1106" height="824" alt="image" src="https://github.com/user-attachments/assets/77a36b13-eddb-4c88-8138-3975118434b2" />](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
 
 >[!IMPORTANT]
 >  At 2025 July, we joined the FIAP's Hackathon about Climite Crisis, a.k.a **Global Solution**.
