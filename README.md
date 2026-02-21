@@ -50,7 +50,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
  <tr><td>
 
-| [![libfte](https://github.com/biralavor/42_libft/assets/80487147/881ed657-9387-4a12-a6fe-7053d8c278f1 "Libft Project")](https://github.com/biralavor/42_libft) |
+| [![libfte](https://github.com/biralavor/42_libft/assets/80487147/881ed657-9387-4a12-a6fe-7053d8c278f1 "Libft - My C Library")](https://github.com/biralavor/42_libft) |
 | :-: |
 | 1. Libft |
 </table>
@@ -63,7 +63,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 </tr></td>
 <tr><td>
   
-| ![born2berootm](https://github.com/biralavor/biralavor/assets/80487147/6d9e75d5-eb59-415a-bcf6-0153d2f2b2bd "Born To Be Root Project - with Bonus") | [![get_next_linem](https://github.com/biralavor/42_getnextline/assets/80487147/6c9b2552-7395-4717-b16a-14e9cec5a085 "Get Next Line Project - with Bonus")](https://github.com/biralavor/42_getnextline/tree/main) | [![ft_printfe](https://github.com/biralavor/42_printf/assets/80487147/5bd49a5f-ed85-4c86-bf8a-5031433299a3 "Ft_printf Project")](https://github.com/biralavor/42_printf) |
+| ![born2berootm](https://github.com/biralavor/biralavor/assets/80487147/6d9e75d5-eb59-415a-bcf6-0153d2f2b2bd "Born To Be Root - Project with Bonus") | [![get_next_linem](https://github.com/biralavor/42_getnextline/assets/80487147/6c9b2552-7395-4717-b16a-14e9cec5a085 "Get Next Line - Project with Bonus")](https://github.com/biralavor/42_getnextline/tree/main) | [![ft_printfe](https://github.com/biralavor/42_printf/assets/80487147/5bd49a5f-ed85-4c86-bf8a-5031433299a3 "Ft_printf - My Version of Printf")](https://github.com/biralavor/42_printf) |
 | :-: | :-: | :-: |
 | 2. Born To Be Root | 3. Get Next Line | 4. Printf |
 
@@ -77,7 +77,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 <tr><td>
 
-| [![so_longm](https://github.com/biralavor/42_solong/assets/80487147/f760aaf0-3431-4fe8-81a2-09aa87535608 "So_long Project - with Bonus")](https://github.com/biralavor/42_solong) | [![minitalkm](https://github.com/biralavor/42_minitalk/assets/80487147/dd3eea53-d070-48b9-965c-682881ef7ff6 "Mini Talk Project - with Bonus")](https://github.com/biralavor/42_minitalk) | [![push_swape](https://github.com/biralavor/42_pushswap/assets/80487147/90c54513-52ea-419c-8db1-e9c315cbad69 "Push Swap")](https://github.com/biralavor/42_pushswap) |
+| [![so_longm](https://github.com/biralavor/42_solong/assets/80487147/f760aaf0-3431-4fe8-81a2-09aa87535608 "So_long - Project with Bonus")](https://github.com/biralavor/42_solong) | [![minitalkm](https://github.com/biralavor/42_minitalk/assets/80487147/dd3eea53-d070-48b9-965c-682881ef7ff6 "Mini Talk - Project with Bonus")](https://github.com/biralavor/42_minitalk) | [![push_swape](https://github.com/biralavor/42_pushswap/assets/80487147/90c54513-52ea-419c-8db1-e9c315cbad69 "Push Swap")](https://github.com/biralavor/42_pushswap) |
 | :-: | :-: | :-: |
 | 5. So Long | 6. Mini Talk | 7. Push Swap <br> `>` ⏩ Actions, 🚸 TDD |
 
@@ -91,8 +91,8 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 <tr><td>
  
-| [![minishelln](https://github.com/user-attachments/assets/097957fc-e4e2-42bd-b6f4-89461aa860e5 "Mini Shell")](https://github.com/biralavor/42_minishell) | [![philosopherse](https://github.com/user-attachments/assets/3a5e657f-80cf-4da6-accd-279d1fdc21da "Philosophers")](https://github.com/biralavor/42_philosophers) |
-| :-: | :-: | 
+| [![minishelln](https://github.com/user-attachments/assets/097957fc-e4e2-42bd-b6f4-89461aa860e5 "MiniShell - Bash Project with Bonus")](https://github.com/biralavor/42_minishell) | [![philosopherse](https://github.com/user-attachments/assets/3a5e657f-80cf-4da6-accd-279d1fdc21da "Philosophers")](https://github.com/biralavor/42_philosophers) |
+| :-: | :-: |
 | 8. MiniShell <br> `>` ⏩ Actions, 🚸 TDD, 📐 GHprojects, 🔩 TBD, 🔗 PPP02 | 9. Philoshopers <br> `>` ⏩ Actions, 🚸 TDD, 📐 GHprojects, 🔩 TBD |
 
  </td></tr>
@@ -105,14 +105,44 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 <tr><td>
  
-| [![cub3de-with-bonus](https://github.com/user-attachments/assets/7b10ec95-6406-4ef8-9ba1-e7636de3e996 "Cube 3D with Bonus")](https://github.com/biralavor/42_cube3D) | <<<< Actual project >>>> <br> [![cpp-list-0to4](https://github.com/user-attachments/assets/04a63315-559b-4bc3-a222-ce8323b7baee "CPP Lists 0 to 4")](https://github.com/biralavor/42_CPP_Module00_to_04) | 
+| [![cub3de-with-bonus](https://github.com/user-attachments/assets/7b10ec95-6406-4ef8-9ba1-e7636de3e996 "Cube 3D - Project with Bonus")](https://github.com/biralavor/42_cube3D) | [![cpp-list-0to4](https://github.com/user-attachments/assets/04a63315-559b-4bc3-a222-ce8323b7baee "CPP Lists 0 to 4 - C++ Project")](https://github.com/biralavor/42_CPP_Module00_to_09) | 
 | :-: | :-: |
 | 10. Cube3D <br> `>` ⏩ Actions, 🚸 TDD, 📐 GHprojects, 🔩 TBD, 🔗 PPP02 | 11. CPP Lists{0..4} <br> `>` 🚸 TDD, 📐 GHprojects, 🔩 TBD | 
 
  </td></tr>
 </table>
+
+<table>
+<tr>
+<th>Milestone 5</th> 
+</tr>
+
+<tr><td>
+ 
+| [![cpp-list-5to9](https://github.com/user-attachments/assets/04a63315-559b-4bc3-a222-ce8323b7baee "CPP Lists 5 to 9 - C++ Project")](https://github.com/biralavor/42_CPP_Module00_to_09) | [![Webserver](https://github.com/mewmewdevart/42Badges/blob/main/badges/webservm.png "Webserver - Project with Bonus")](https://github.com/willtrigo/42_webserv) | <<<< Actual project >>>> <br> [![Inception](https://github.com/mewmewdevart/42Badges/blob/main/badges/inceptione.png?raw=true "Inception")](https://github.com/biralavor/42_Inception) | 
+| :-: | :-: | :-: |
+| 12. CPP Lists{5..9} <br> `>` 🚸 TDD, 📐 GHprojects, 🔩 TBD | 13. Webserver <br> `>` ⏩ Actions, 🚸 TDD, 🔩 TBD, 🔗 PPP02 | 14. Inception <br> `>` ⏩ Actions, 🚸 TDD, 🔩 TBD |
+
+ </td></tr>
+</table>
+
+<table>
+<tr>
+<th>Milestone 6</th> 
+</tr>
+
+<tr><td>
+ 
+| xx | <<<< Actual project >>>> <br> [![Transcendence](https://github.com/mewmewdevart/42Badges/blob/main/badges/ft_transcendencee.png "Transcendence - Final Project of 42 Common Core Curriculum")](https://github.com/biralavor/42_transcendence) |
+| :-: | :-: |
+| 15. Collaborative Resumè | 16. Transcendence  <br> `>` ⏩ Actions, 🚸 TDD, 📐 GHprojects, 🔩 TBD, 🔗 PPP05 |
+
+ </td></tr>
+</table>
 </div>
 
+
+https://github.com/mewmewdevart/42Badges/blob/main/badges/ft_transcendencee.png?raw=true
 
 > All 42 Badges -- the astronomer Human Coder -- were done by Larissa Cristina [@mewmewdevart](https://github.com/mewmewdevart/42Badges)
 
@@ -125,7 +155,7 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 
 >[!TIP]
 > Here are my actual 1st year grades of the BTech Graduation at **FIAP University - Systems Engineering**: **92 / 100**
-> [<img width="1106" height="824" alt="image" src="https://github.com/user-attachments/assets/77a36b13-eddb-4c88-8138-3975118434b2" />](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
+> [<img width="1778" height="815" alt="image" src="https://github.com/user-attachments/assets/986ef9a2-c318-4c1b-9122-3a33fb1e434d" />](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
 
 >[!IMPORTANT]
 >  At 2025 July, we joined the FIAP's Hackathon about Climite Crisis, a.k.a **Global Solution**.
