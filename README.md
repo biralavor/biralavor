@@ -6,10 +6,10 @@ This `README.md` is about my ✨code proficiency✨ and studies at [42 São Paul
 [![languages](https://raw.githubusercontent.com/biralavor/github-stats-transparent/output/generated/languages.svg)](#)
 
 
-- At [42 São Paulo](https://42sp.org.br/), I’m a Software Engineering Cadet Student
+- At [42 São Paulo](https://42sp.org.br/), I’m a Software Engineering Human Coder
 - At [FIAP](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) I'm also studying another BTech Degree: Systems Engineering
-- I enjoy coding in C, but [Python is increasingly capturing my aha-moments](https://github.com/biralavor/42_discovery_piscine_Python)
-- At FIAP, I'm learning [JAVA - and you can check here](https://github.com/biralavor/FIAP-DomainDrivenDesign-JAVA)
+- At [kubit](https://github.com/kubit-ti) I am a Product Engineer
+- I enjoy coding and solving problems in Python
 - ⚡ STEM Fun fact: I have built a startup to foster curiosity on kids with STEM content 🔭 ->> [playSTEM academy](https://biralavor.github.io/playstem_academy/)
 - 📫 [How to reach me](https://airgo.bio/bira/)
 
